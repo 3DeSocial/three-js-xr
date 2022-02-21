@@ -1,0 +1,22 @@
+{
+  "name": "three-js-xr",
+  "version": "1.0.0",
+  "description": "Three JS XR Classes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3DeSocial/three-js-xr.git"
+  },
+  "keywords": [
+    "VRButton"
+  ],
+  "author": "Andrew van Duivenbode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3DeSocial/three-js-xr/issues"
+  },
+  "homepage": "https://github.com/3DeSocial/three-js-xr#readme"
+}
